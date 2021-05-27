@@ -4,8 +4,8 @@
 
 # Site
 title: hys博客
-subtitle: '我累了，毁灭吧。'
-description: '博客'
+# subtitle: '博客副标题'
+description: '博客描述'
 keywords: '博客'
 author: hys
 language: zh-CN
