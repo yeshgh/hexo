@@ -4,7 +4,7 @@
 
 # Site
 title: hys博客
-subtitle: ''
+subtitle: '我累了，毁灭吧。'
 description: '博客'
 keywords: '博客'
 author: hys
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://yeshgh.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
